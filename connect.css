@@ -1,0 +1,50 @@
+* {
+    font-family: 'Newsreader', serif;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+
+/* ******************************navbar************************************  */
+.navbar {
+    background-color: rgb(3, 3, 3);
+}
+
+.nav-link:hover {
+    color: #fff !important;
+}
+
+/* ******************************navbar************************************  */
+.carousel-item img {
+    height: 100vh;
+}
+
+.homepg {
+    background-color: rgb(229, 192, 192);
+    width: 100%;
+}
+
+/* ******************************gallery************************************  */
+.gallery {
+    background-color: rgb(229, 192, 192);
+}
+
+.headphone img {
+    height: 18rem;
+    /* transition: width 2s; */
+
+}
+
+/* ******************************gallery************************************  */
+
+
+/* ******************************footer************************************  */
+
+.footer {
+    background-color: rgb(229, 192, 192);
+    width: 100%;
+}
+
+/* ******************************footer************************************  */
